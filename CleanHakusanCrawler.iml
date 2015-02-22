@@ -17,5 +17,32 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:jackson-core-2.5.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:jackson-databind-2.5.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/com.fasterxml.jackson.core/jackson-databind/jars/jackson-databind-2.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Grab:jackson-annotations-2.5.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.groovy/grapes/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
